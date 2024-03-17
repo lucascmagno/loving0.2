@@ -23,6 +23,7 @@ body{
     border-radius: 10px;
     color: white;
     margin-left: -50px;
+    cursor: pointer;
 }
 
 #nao{
@@ -34,4 +35,14 @@ body{
     border-radius: 10px;
     color: white;
     margin-left: 10px;
+}
+
+@media screen and (max-width: 500px) {
+    .painel{
+        width: 90vw;
+        height: 80vh;
+    }
+    img{
+        width: 90vw;
+    }
 }

@@ -39,10 +39,10 @@ body{
 
 @media screen and (max-width: 500px) {
     .painel{
-        width: 90vw;
-        height: 80vh;
+        width: 85vw;
+        height: 85vh;
     }
     img{
-        width: 90vw;
+        width: 85vw;
     }
 }
